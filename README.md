@@ -28,7 +28,7 @@ Developers tended to finish Alpha tests before releasing new versions. Always up
 
 - Beta account will operate 24/7, but there may be **sudden shut without pre-notice**.
 - Data between Beta and Main is **not auto-synced**, admins can copy from Main to Beta manually. 
-- When transforming your data, we will follow the guildlines of **Collection, Processing and Usage of Personal Data** in [Privacy and Services Terms](https://bcbot.fun/#elements).
+- When transforming your data, we will follow the guildlines of **Collection, Processing and Usage of Personal Data** in [Privacy and Services Terms](https://github.com/GALA-X-Y/BC_BOT/blob/main/PnS_Terms.md#eng).
 - There may **not be pre-notice** before the transforming. 
 - On Beta account we will only upload pre-release functions.
 
@@ -46,9 +46,9 @@ The flow of release will be:
 2. Intersect of data files (Turning on the instituation will overwrite Beta data)
 
 ### 公測更新 Updates of Beta Account
-公測版本的更新資訊會於此專案以文件的方式公佈，有關格式參考"**更新文件格式及内容**"。GitHub上的Release版本號(e.g. v2.1.1b)也會更改，公測版本號以**beta**結尾。另外會於 `log.md` 會記錄該次更新。新套件或功能會於使用手冊 `instruction.md` 加入使用方法。 
+公測版本的更新資訊會於此專案以文件的方式公佈，有關格式參考"**更新文件格式及内容**"。GitHub上的Release版本號(e.g. v2.1.1b)也會更改，公測版本號以**b**(beta)結尾。另外會於 `log.md` 會記錄該次更新。新套件或功能會於使用手冊 `instruction.md` 加入使用方法。 
 
-The update info of Beta account will be uploaded as a update doc here. About the format please read "**Update Doc Format & Content**". The Release Version of this repository will also be updated. Version of Beta testing will be ended with "**beta**". In `log.md` records will be taken, while tutorial of new plugins and functions will be given in `instruction.md`.
+The update info of Beta account will be uploaded as a update doc here. About the format please read "**Update Doc Format & Content**". The Release Version of this repository will also be updated. Version of Beta testing will be ended with character '**b**'. In `log.md` records will be taken, while tutorial of new plugins and functions will be given in `instruction.md`.
 
 ### 公測開始時間 Startup of Beta Account 
 預計待10月份反應身份組套件斜綫化進程達一半及完成伺服器機臺調試後開始，稍後通知。
@@ -87,7 +87,7 @@ Developers will uploaded a short markdown file for update document after a fine-
 
 If a version update is posted, a log will be recorded like:
 ```
-2023/XX/XX - v2.X.Xb
+2023/XX/XX - v2.X.X-beta
 更新文件 Update Doc : 鏈接 Link
 ```
 
