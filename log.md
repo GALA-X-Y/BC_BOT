@@ -2,13 +2,7 @@
 更新會按照越新排越上面。 The newer the log is, the upper it is in this logbook.
 
 ## 09/08/2023 - v2.2.1
-正式版Mute系統斜綫化更新
-1. 新增指令 `/mutelist` 查看禁言人員及剩餘時間
-2. 使用時間系統優化後臺偵測效率
-
-Official Release of slashed Mute system.
-1. Adding new command `/mutelist` for checking muted users and remained time.
-2. Enhancement in efficiency by using "Time" system.
+更新文件 Update Doc : https://github.com/GALA-X-Y/BC_BOT/blob/main/Update_Doc/v2-2-1.md
 
 ## 09/01/2023 - 專案設立 Setup of Repository
 上傳官方文件
